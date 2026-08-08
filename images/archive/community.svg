@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#77624b" />
+  <circle cx="150" cy="140" r="90" fill="#433a2f" opacity="0.9" />
+  <text x="50%" y="56%" text-anchor="middle" fill="#f3efe4" font-family="IBM Plex Sans, sans-serif" font-size="20">Communities</text>
+</svg>

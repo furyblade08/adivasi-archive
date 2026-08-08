@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" preserveAspectRatio="xMidYMid slice">
+  <rect width="720" height="540" fill="#627057" />
+  <rect x="70" y="60" width="580" height="420" rx="16" fill="#414434" />
+  <path d="M140 420c40-80 120-170 240-170s200 90 240 170" fill="none" stroke="#d7cdb9" stroke-width="14" stroke-linecap="round" />
+  <circle cx="360" cy="180" r="98" fill="none" stroke="#d7cdb9" stroke-width="14" />
+  <text x="360" y="520" text-anchor="middle" fill="#f3efe4" font-family="IBM Plex Sans, sans-serif" font-size="24">Founder photograph placeholder</text>
+</svg>

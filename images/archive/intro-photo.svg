@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8b7765" />
+      <stop offset="100%" stop-color="#4f3e31" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#6b5e50" />
+  <rect width="800" height="600" fill="url(#g2)" opacity="0.65" />
+  <text x="50%" y="50%" text-anchor="middle" fill="#f3efe4" font-family="IBM Plex Sans, sans-serif" font-size="34">Archival landscape placeholder</text>
+</svg>

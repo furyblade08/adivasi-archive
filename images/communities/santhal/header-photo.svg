@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5a5348" />
+      <stop offset="100%" stop-color="#3a342a" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="760" fill="#4e493e" />
+  <rect width="1600" height="760" fill="url(#g)" opacity="0.52" />
+  <text x="50%" y="52%" text-anchor="middle" fill="#f3efe4" font-family="IBM Plex Sans, sans-serif" font-size="42">Santhal header photograph placeholder</text>
+</svg>

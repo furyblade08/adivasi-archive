@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#6b5744" />
+  <circle cx="150" cy="140" r="72" fill="#413427" />
+  <circle cx="150" cy="140" r="42" fill="#c3b29f" opacity="0.35" />
+  <text x="150" y="260" text-anchor="middle" fill="#f3efe4" font-family="IBM Plex Sans, sans-serif" font-size="18">Culture</text>
+</svg>
